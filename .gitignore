@@ -1,0 +1,4 @@
+backups/*
+data_legal/*
+data_sampled.csv
+.ipynb*
